@@ -1,0 +1,16 @@
+C:\Users\JAFAR LAWAL\Documents\CodeCal\bin\Debug\net5.0\CodeCal.exe
+C:\Users\JAFAR LAWAL\Documents\CodeCal\bin\Debug\net5.0\CodeCal.deps.json
+C:\Users\JAFAR LAWAL\Documents\CodeCal\bin\Debug\net5.0\CodeCal.runtimeconfig.json
+C:\Users\JAFAR LAWAL\Documents\CodeCal\bin\Debug\net5.0\CodeCal.runtimeconfig.dev.json
+C:\Users\JAFAR LAWAL\Documents\CodeCal\bin\Debug\net5.0\CodeCal.dll
+C:\Users\JAFAR LAWAL\Documents\CodeCal\bin\Debug\net5.0\ref\CodeCal.dll
+C:\Users\JAFAR LAWAL\Documents\CodeCal\bin\Debug\net5.0\CodeCal.pdb
+C:\Users\JAFAR LAWAL\Documents\CodeCal\obj\Debug\net5.0\CodeCal.csprojAssemblyReference.cache
+C:\Users\JAFAR LAWAL\Documents\CodeCal\obj\Debug\net5.0\CodeCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAFAR LAWAL\Documents\CodeCal\obj\Debug\net5.0\CodeCal.AssemblyInfoInputs.cache
+C:\Users\JAFAR LAWAL\Documents\CodeCal\obj\Debug\net5.0\CodeCal.AssemblyInfo.cs
+C:\Users\JAFAR LAWAL\Documents\CodeCal\obj\Debug\net5.0\CodeCal.csproj.CoreCompileInputs.cache
+C:\Users\JAFAR LAWAL\Documents\CodeCal\obj\Debug\net5.0\CodeCal.dll
+C:\Users\JAFAR LAWAL\Documents\CodeCal\obj\Debug\net5.0\ref\CodeCal.dll
+C:\Users\JAFAR LAWAL\Documents\CodeCal\obj\Debug\net5.0\CodeCal.pdb
+C:\Users\JAFAR LAWAL\Documents\CodeCal\obj\Debug\net5.0\CodeCal.genruntimeconfig.cache
